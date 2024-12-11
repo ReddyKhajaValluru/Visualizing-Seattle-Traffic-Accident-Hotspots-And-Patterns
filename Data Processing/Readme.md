@@ -2,6 +2,6 @@ Data set used: [SDOT collision dataset](https://data-seattlecitygis.opendata.arc
 
 C4_DataProcessing.tfl is the file used for data processing in tableau prep. (original -> S4)
 
-C4_Processing_S2.ipynb is the file used for data processing in python. (S1 -> S2)
+C4_Processing_S2.ipynb is the file used for data processing in Python. (S1 -> S2)
 
-SDOT_CollisionsData_Processesd_S4_28Nov2024.csv is the final clean used in Viz. 
+SDOT_CollisionsData_Processesd_S4_28Nov2024.csv is the final file used to create Visualization. 
